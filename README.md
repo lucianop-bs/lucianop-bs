@@ -1,2 +1,4 @@
-<h2 align="left">Ola👋! Meu nome e Luciano, iniciante na programação.</h2>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/lucianop-bs/github-readme-stats)
+<h2 align="left">Ola! Meu nome é Luciano.👍🏻</h2>
+<p aling="center">Estou iniciando na programação, cursando sistema da informação no Centro Universitario do Centro Oeste(UNIDESC)<br>
+e complementado os estudos na plataforma ROCKTSEAT no curso de Desenvolvimento WEB FULLSTACK.🧑🏼‍💻💜
+</p>

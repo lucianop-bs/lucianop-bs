@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Luciano👍🏻</h2>
 <h3 align="left">🧑🏼‍💻Sobre mim:</h3>
-<p aling="center"> Inciante na programação, cursando Sistema da Informação no Centro Universitario do Centro Oeste(UNIDESC)<br>
+<p aling="center"> Inciante na programação, cursando Sistema da Informação no Instituto Federal de Goias(IFG)<br>
 e complementando os estudos na plataforma ROCKTSEAT💜 no curso de Desenvolvimento WEB FULLSTACK🚀.<br>
 </p>
 <picture>

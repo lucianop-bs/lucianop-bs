@@ -1,6 +1,7 @@
-
+<div align="start">
     <h1>Olá! Eu sou o Luciano Borges 👋</h1>
     <p>Desenvolvedor Full Stack em Formação | Estudante de Sistemas de Informação</p>
+</div>
 
 
 ---

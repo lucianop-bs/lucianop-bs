@@ -12,7 +12,7 @@ Sou estudante de **Sistemas de Informação** no IFG Luziânia e meu principal f
 | Back-end | Front-end | Ferramentas & Metodologias |
 | :---: | :---: | :---: |
 | ☕ **Java** | 📐 **Angular** | 🐙 **Git/GitHub** |
-| 🍃 **Spring Boot** | 📘 **Typescript** |
+| 🍃 **Spring Boot** | 📘 **Typescript** 
 
 ### 🔥 Evolução no CWI Crescer
 

@@ -15,9 +15,6 @@ Sou estudante de **Sistemas de Informação** no IFG Luziânia e meu foco princi
 | 🎯 **C#** / .NET | 📘 **TypeScript** | 📊 **REST APIs / EF Core** |
 | 💾 **SQL Server / PostgreSQL** | 🎨 **CSS / SCSS** | 🧪 **TDD / Clean Code** |
 
-### 🔥 Evolução no CWI Crescer
-
-Estou em formação contínua no programa **CWI Crescer Level 2**. Este ambiente simula o dia a dia do desenvolvimento, onde aplico ativamente conceitos de **Orientação a Objetos** e **Arquitetura de Software** para o desenvolvimento de projetos **Full Stack** modernos utilizando ecossistemas **Java** e **.NET**.
 
 *(Nota: Os projetos desenvolvidos no programa são mantidos em repositórios privados por questões de sigilo, mas minha atividade e foco estão documentados nos meus commits públicos de estudo.)*
 

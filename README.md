@@ -1,11 +1,9 @@
 <div align="start">
-    <h1>Eu sou o Luciano Borges 👋</h1>
+    <h1>Meu nome é Luciano Borges 👋</h1>
     <p>Desenvolvedor Full Stack em Formação | Estudante de Sistemas de Informação</p>
 </div>
 
 ---
-
-### 🚀 Sobre Minha Jornada
 
 Sou estudante de **Sistemas de Informação** no IFG Luziânia e meu foco principal é o desenvolvimento de aplicações robustas e escaláveis, consolidando minha stack principal:
 

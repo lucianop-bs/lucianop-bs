@@ -95,9 +95,3 @@ O projeto **Amar & Servir** é uma solução voltada à gestão social, com foco
 
 -----
 
-<div align="center">
-
-*“Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. O profissionalismo e o artesanato vêm de valores que impulsionam disciplinas.”*
-— **Robert C. Martin**
-
-</div>

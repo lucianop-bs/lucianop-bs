@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Luciano+Borges+%F0%9F%91%8B;Full+Stack+Developer+em+Forma%C3%A7%C3%A3o;Java+%7C+C%23+%7C+Angular+%7C+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Luciano+Borges+%F0%9F%91%8B;Full+Stack+Developer+em+Forma%C3%A7%C3%A3o;C%23+%7C+.NET+Core+%7C+LINQ+%7C+MongoDB;Angular+%7C+TypeScript+%7C+REST+APIs" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no desenvolvimento de aplicações robustas e escaláveis. Apaixonado por boas práticas de engenharia de software, estou constantemente evoluindo minha stack e consolidando conhecimentos em arquitetura de sistemas.
+Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no desenvolvimento de aplicações robustas e escaláveis usando **.NET Core** e **C#** como stack principal. Apaixonado por boas práticas de engenharia de software, trabalho com **LINQ**, **MongoDB**, **Entity Framework Core** e arquitetura em camadas no back-end, complementando com **Angular** e **TypeScript** no front-end.
 
 - 🎓 Estudante de Sistemas de Informação — IFG Luziânia
 - 🚀 Desenvolvedor Full Stack em Formação
@@ -27,29 +27,37 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 
 <div align="center">
 
-### Back-end
+### 🟣 Back-end — Foco Principal
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Front-end
+### 🗄️ Banco de Dados
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Banco de Dados
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas & Práticas
+### 🖥️ Front-end
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Ferramentas & Práticas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microsserviços-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -72,23 +80,18 @@ O projeto **Amar & Servir** é uma solução voltada à gestão social, com foco
 
 -----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianopborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianopborges&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 -----
 
 ## 🎯 Atualmente focado em
 
-- Aprofundamento em **arquitetura de microsserviços** com .NET e Spring Boot
-- Boas práticas de **testes automatizados** (TDD / xUnit / JUnit)
-- Evolução do projeto **Amar & Servir** com novas funcionalidades
-- Fortalecimento em **Entity Framework Core** e modelagem de dados
+- Domínio avançado de **C# / .NET Core** — APIs RESTful, injeção de dependência e middlewares
+- Aprofundamento em **LINQ** para consultas expressivas e performáticas
+- Modelagem e integração com **MongoDB** — documentos, coleções e operações assíncronas
+- Boas práticas com **Entity Framework Core** — migrations, relacionamentos e performance
+- Arquitetura de **Microsserviços** — separação de responsabilidades, comunicação entre serviços e escalabilidade
+- **Mensageria** com **AWS SQS & SNS** — filas, tópicos e comunicação assíncrona entre serviços na nuvem
+- **Docker** — containerização de aplicações, Docker Compose e ambientes isolados
+- Evolução do projeto **Amar & Servir** com novas funcionalidades e testes automatizados (xUnit)
 
 -----
 

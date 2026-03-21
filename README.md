@@ -22,6 +22,30 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 - 🤝 Contribuindo com projetos de impacto social
 
 -----
+<div align="center">
+
+## 📊 `>STATUS` 📊
+
+<br />
+
+<a href="https://github.com/lucianop-bs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianop-bs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucianop-bs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+---
+
+## 🏆 `> ACHIEVEMENTS UNLOCKED` 🏆
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucianop-bs&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ## 🛠️ Stack & Tecnologias
 

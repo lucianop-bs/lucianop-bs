@@ -24,7 +24,7 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 -----
 <div align="center">
 
-## 📊 `>STATUS` 📊
+## 📊 `STATUS` 📊
 
 <br />
 
@@ -37,14 +37,6 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lucianop-bs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
-
-## 🏆 `> ACHIEVEMENTS UNLOCKED` 🏆
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucianop-bs&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ## 🛠️ Stack & Tecnologias
 

@@ -30,7 +30,6 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 
 <a href="https://github.com/lucianop-bs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianop-bs&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
 </a>
 
 <br /><br />

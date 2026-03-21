@@ -10,8 +10,6 @@
 
 </div>
 
------
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no desenvolvimento de aplicações robustas e escaláveis usando **.NET Core** e **C#** como stack principal. Apaixonado por boas práticas de engenharia de software, trabalho com **LINQ**, **MongoDB**, **Entity Framework Core** e arquitetura em camadas no back-end, complementando com **Angular** e **TypeScript** no front-end.
@@ -20,23 +18,6 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 - 🚀 Desenvolvedor Full Stack em Formação
 - 🏗️ Entusiasta de Clean Code, TDD e arquitetura limpa
 - 🤝 Contribuindo com projetos de impacto social
-
------
-<div align="center">
-
-## 📊 `STATUS` 📊
-
-<br />
-
-<a href="https://github.com/lucianop-bs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lucianop-bs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
----
 
 ## 🛠️ Stack & Tecnologias
 
@@ -93,9 +74,6 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 
 O projeto **Amar & Servir** é uma solução voltada à gestão social, com foco em organização e controle de informações para entidades e projetos de impacto comunitário. Desenvolvido aplicando boas práticas como separação de responsabilidades, arquitetura em camadas e REST APIs.
 
------
-
------
 
 ## 🎯 Atualmente focado em
 
@@ -108,5 +86,10 @@ O projeto **Amar & Servir** é uma solução voltada à gestão social, com foco
 - **Docker** — containerização de aplicações, Docker Compose e ambientes isolados
 - Evolução do projeto **Amar & Servir** com novas funcionalidades e testes automatizados (xUnit)
 
------
-
+<div align="center">
+<br />
+<a href="https://github.com/lucianop-bs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+</a>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucianop-bs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

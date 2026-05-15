@@ -31,6 +31,7 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-ff9300?style=for-the-badge&logo=quarkus&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
@@ -49,8 +50,6 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microsserviços-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -65,9 +64,9 @@ Sou estudante de **Sistemas de Informação** no **IFG Luziânia**, com foco no 
 
 <div align="center">
 
-|Repositório                                                      |Tecnologia            |Descrição                              |
-|:----------------------------------------------------------------|:--------------------:|:--------------------------------------|
-|[📦 amarservir-api](https://github.com/Amar-Servir/amarservir-api)|`C# / .NET`           |API RESTful — back-end da plataforma   |
+|Repositório |Tecnologia |Descrição |
+|:-------------------------------------------------------------------|:--------------------:|:--------------------------------------|
+|[📦 amarservir-api](https://github.com/Amar-Servir/amarservir-api)|`C# / .NET` |API RESTful — back-end da plataforma |
 |[🖥️ amarservir-app](https://github.com/Amar-Servir/amarservir-app)|`TypeScript / Angular`|Aplicação web — front-end da plataforma|
 
 </div>
@@ -82,14 +81,14 @@ O projeto **Amar & Servir** é uma solução voltada à gestão social, com foco
 - Modelagem e integração com **MongoDB** — documentos, coleções e operações assíncronas
 - Boas práticas com **Entity Framework Core** — migrations, relacionamentos e performance
 - Arquitetura de **Microsserviços** — separação de responsabilidades, comunicação entre serviços e escalabilidade
-- **Mensageria** com **AWS SQS & SNS** — filas, tópicos e comunicação assíncrona entre serviços na nuvem
 - **Docker** — containerização de aplicações, Docker Compose e ambientes isolados
 - Evolução do projeto **Amar & Servir** com novas funcionalidades e testes automatizados (xUnit)
 
 <div align="center">
 <br />
 <a href="https://github.com/lucianop-bs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
 </a>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lucianop-bs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>

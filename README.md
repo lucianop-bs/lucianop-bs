@@ -87,7 +87,7 @@ O projeto **Amar & Servir** é uma solução voltada à gestão social, com foco
 <div align="center">
 <br />
 <a href="https://github.com/lucianop-bs">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianop-bs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
+
 </a>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lucianop-bs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
